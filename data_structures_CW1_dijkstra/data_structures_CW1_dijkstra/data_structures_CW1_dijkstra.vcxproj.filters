@@ -26,6 +26,9 @@
     <Text Include="input.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="Input1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Graph.h">

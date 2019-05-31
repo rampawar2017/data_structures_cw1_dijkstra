@@ -120,6 +120,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
+    <Text Include="Input1.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Compare.h" />

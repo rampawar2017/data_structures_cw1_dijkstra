@@ -12,8 +12,8 @@ int main()
 	//File format:
 	//vertex_count edge_count source_vertex, destination_vertex
 	//edge_count lines with format: from to distance.
-	//>>>
-	ifstream input("input.txt");
+	//>>>S
+	ifstream input("input.txt"); //change to "input1" for testing different input
 
 	int vertex_count, edge_count, source, dest;
 	input >> vertex_count >> edge_count >> source >> dest;
